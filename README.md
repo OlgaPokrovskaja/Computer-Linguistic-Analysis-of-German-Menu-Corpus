@@ -42,8 +42,8 @@ Gliederung der Repository:
    - speisekarte/pipelines.py: Voreinstellungen der Scrapy Pipelines
    - speisekarte/settings.py: Zusätzliche Einstellungen für Scrapy
    - speisekarte/spiders:
-         -speisekarte/spiders/speisen.py: Scraping von URLs von speisekarte.de
-         -speisekarte/spiders/only_url_parse.py: Scraping jedes Restaurants mit Restaurantname, Restaurantkategorie, Restaurantadressse, URL, letzten Aktualisierungsdatum der Speisekarte, sowie aller Speisen mit Speisennamen, Speisenbeschreibung und Speisenpreis
+   - a. speisekarte/spiders/speisen.py: Scraping von URLs von speisekarte.de
+   - b. speisekarte/spiders/only_url_parse.py: Scraping jedes Restaurants mit Restaurantname, Restaurantkategorie, Restaurantadressse, URL, letzten Aktualisierungsdatum der Speisekarte, sowie aller Speisen mit Speisennamen, Speisenbeschreibung und Speisenpreis
 
 
 
