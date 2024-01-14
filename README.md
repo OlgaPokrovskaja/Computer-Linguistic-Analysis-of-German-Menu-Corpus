@@ -27,19 +27,5 @@ Gliederung der Repository:
 3. ngrams: N-Gram-Analyse der Speisennamen und Speisenbeschreibungen
    - ngrams.py: Erstellung von 1-,2-,3- Grams der Beschreibungen und Speisennamen mit Stopwörtern und Ohne
    - ngram_plot.py: Visualisierung der N-Gram Analyse in Lowercase und in Normalschreibweise der Speisennamen und Speisenbeschreibungen
-   - beschreibung/speisennamen:
-     - lowercase:
-       - mit-stop:
-         - logarithmierte Visualisierungen
-         - absteigend sortierte txt Listen mit Rang
-       - ohne-stop:
-         - logarithmierte Visualisierungen
-         - absteigend sortierte txt Listen mit Rang
-     - normal:
-       - mit-stop:
-         - logarithmierte Visualisierungen
-         - absteigend sortierte txt Listen mit Rang
-       - ohne-stop:
-         - logarithmierte Visualisierungen
-         - absteigend sortierte txt Listen mit Rang
+ 
 
