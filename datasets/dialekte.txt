@@ -1,0 +1,829 @@
+alsterwasser;Norddeutschland
+alster;Norddeutschland
+radler;Mitteldeutschland
+panasch;Saarland, Schweiz
+apfelwein;Norddeutschland 
+obstwein;Norddeutschland
+ebbelwoi;Südhessisch
+appler;Neusüdhessisch
+viez;Mosel, Saarland
+most;Süddeutschland, Österreich 
+moschd;Süddeutschland
+bawesen;Süddeutschland
+povesen;Süddeutschland
+sulz;Schwäbisch, Bairisch, Österreich
+sulzn;Fränkisch
+mohnstriezel;Mitteldeutschland 
+bärschi;Badisch
+kretzer;Süddeutschlad (Bodensee)
+dörrfleisch;Mitteldeutschland
+dürrfleisch;Mitteldeutschland
+wammerl;Bairisch
+bündla;fränkisch
+bauchläpple;schwäbisch
+bauchfleisch;Südddeutschland
+brüstl;Süddeutschland
+puffel;Mitteldeutschland
+faschingskrapfen;Mitteldeutschland, Süddeutschland, Össterreich 
+fieze;Mittelhessisch
+kräbbl;südhessisch 
+krapfen;Bairisch 
+kreppel;Südddeutschland 
+fastnachtsküchle;Süddeutschland 
+kräbbl;Süddeutschland
+pfannakung;Süddeutschland
+krapfm;oberfränkisch
+hoawa;Bairisch
+weelen;Moselfränkisch
+bleichsellerie;Norddeutschland 
+stangensellerie;Süddeutschland
+karfiol;Bairisch
+kaaskel;fränkisch
+flönz;Kölsch
+rotwurst;Norddeutschland 
+griebenwurst;Mitteldeutschland, Badisch
+plunz;Mitteldeutschland
+blunz;Mitteldeutschland
+bludwoaschd;Südhessisch 
+schwarzwurst;Süddeutschland
+blunzn;Bairisch 
+blonza;Schwäbisch
+blenzle;Schwäbisch
+blunzen;Österreich
+knacker;Bairisch, Österreich 
+schübling;Süddeutschland
+cervelat;Süddeutschland
+serfelade;Österreich
+beamtenforelle;Österreich
+augsburger;Österreich
+bonschen;Norddeutschland
+bonscher;Norddeutschland
+bollchen;Norddeutschland
+bollo;Norddeutschland
+bons;Norddeutschland
+bollcher;Mitteldeutschland 
+kamelle;Mitteldeutschland
+gutsel;Mitteldeutschland
+zuckerstein;Mitteldeutschland
+klumbe;Mitteldeutschland
+guudsje;Mitteldeutschland  
+gutsje;Mitteldeutschland
+gutsjen;Mitteldeutschland
+malzel;Mitteldeutschland
+mohler;Mitteldeutschland
+gutsele;Süddeutschland
+zuckerle;Süddeutschland 
+bombo;Süddeutschland
+bombole;Süddeutschland
+zuckerl;Süddeutschland
+guddie;Süddeutschland
+guadl;Süddeutschland 
+bomberl;Süddeutschland
+guezel;Süddeutschland
+gereesde;Südhessisch
+gebrädelde;Pfälzisch 
+broodgrumbeere;Pfälzisch 
+erdäpfel;Bairisch
+kardoffen;Bairisch
+brägele;Schwäbisch 
+bräleti;Südbaden
+erpfl;Oberfränkisch 
+spälkle;Vogtland
+erdäpfelschmarren;Österreich
+bromma;Süddeutschland
+brommbl;Süddeutschland
+brümmbl;Süddeutschland
+kanten;Norddeutschland
+knäppchen;Norddeutschland
+knust;Norddeutschland
+knörnchen;Mitteldeutschland
+knörzchen;Mitteldeutschland
+krestchen;Mitteldeutschland
+kniestchen;hessisch
+renftl;obersächsisch
+ränftchen;thüringisch 
+knäuschen;Moselfränkisch
+knippchen;Moselfränkisch
+knärzje;südhessisch
+renfterl;Süddeutschland
+riebele;Süddeutschland
+knäusperle;Süddeutschland
+knäusle;schwäbisch 
+gigerle;Süddeutschland
+scherzl;Süddeutschland
+sterzl;Süddeutschland
+ranftl;bairisch 
+koppela;Süddeutschland
+köpple;Süddeutschland
+gnedzla;fränkisch 
+kneisl;Süddeutschland
+gniesl;Süddeutschland
+oschnitt;badisch 
+brot-kipf;Süddeutschland
+kipf;schwäbisch 
+gnötzle;Unterfränkisch
+scherzel;Österreich
+bugl;Österreich
+rundstück;hamburgisch 
+schrippe;berlinerisch 
+luffe;braunschweigisch
+wecke;Norddeutschland
+weck;hessisch, moselfrfränkisch, saarländisch 
+semmel;obersächsisch
+weck;badisch, pfälzisch, schwäbisch, südhessisch 
+weckle;badisch, pfälzisch, schwäbisch, südhessisch 
+wecken;schwäbisch 
+semmerl;bairisch, fränkisch
+weckerl;bairisch, fränkisch
+breedla;niederbairisch 
+labla;niederbairisch
+passauer;niederbairisch 
+stölla;oberfränkisch
+weckla;fränkisch
+weggla;fränkisch
+brötla;oberfränkisch, Raum Bamberg 
+weggli;südbadisch
+kaisersemmel;Österreich
+langsemmel;Österreich
+steirische semmel;Österreich
+zeile;Österreich
+stegerl;Österreich
+kärnten;Österreich
+kärntenersemmel;Österreich
+knopfsemmel;Österreich
+botter;Kölsch
+bodder;südhessisch 
+schmer;Süddeutschland
+teebutter;Österreich
+stulle;Norddeutschland
+knifte;Norddeutschland
+knefte;Norddeutschland
+ränftel;Norddeutschland
+bemme;obersächsisch
+dong;Mitteldeutschland
+ramm;Rheinisch/Kölsch
+botterramm;Rheinisch/Kölsch 
+schmier;moseldränkisch, saarländisch
+schmeer;moseldränkisch, saarländisch
+pfefferoni;Süddeutschland, Österreich
+eierkuchen;Norddeustchland, Mitteldeutschland
+plinse;sächsisch/Lausitz
+plinze;sächsisch/Lausitz
+schaffenkuchen;thüringisch
+pfannadeggel;schwäbisch
+flädle;schwäbisch
+pfannakuacha;schwäbisch, bairisch 
+eerdädscha;itzgründisch
+eierdätscher;itzgründisch
+aajerpånnkuche;südhessisch 
+armer maa;Süddeutschland
+bötel;Mittelelbe 
+hämmche;Rheinland
+gnechle;schwäbisch 
+knöchla;fränkisch 
+haxn;fränkisch 
+hasbl;südhessisch 
+stelze;Österreich 
+haxen;Öster
+breschdling;schwäbisch 
+ärbl;südhessisch
+rotbeere;Österreich
+aschanti;Österreich
+schanti-nuss;Österreich
+mausohr;Saarland
+fillepcher;pfälzisch
+schmalzkraut;südhessisch
+nisslsalat;alemannisch/südbadisch
+nüsslisalat;alemannisch/südbadisch
+ackersalat;schwäbisch
+vogerlsalat;bairisch, Österreich 
+schofmalich;fränkisch
+schafmäulchen;fränkisch
+sunnewirbeli;alemannisch
+lämmli;alemannisch
+lämmle;alemannisch
+döchderle;alemannisch
+bulette;Norddeutschland
+klops;Norddeutschland
+gehacktesbällchen;Norddeutschland
+hackfläschkichelscha;saarländisch
+grindkobb;Odenwald
+fleischküchle;schwäbisch
+fleischpflanzerl;bairisch
+karbonadl;nordbairisch/egerländisch
+fleischklößla;Oberfranken
+flähschkrapfla;Unterfranken
+flaaschküchle;Unterfranken
+faschiertes laibchen;Österreich
+faschiertes laberl;Österreich
+fleischlaberl;Österreich
+påscher;Tirol
+hacklöble;Vorarlberg
+mischbrot;Norddeutschland 
+graubrot;Norddeutschland
+feinbrot;Norddeutschland
+loib;schwäbisch
+laib;schwäbisch
+geerscht;hunsrückisch
+grauba;schwäbisch
+schweinegrieben;Norddeutschland
+griewe;pfälzisch
+griemeln;bairisch
+gremmen;bairisch
+grammeln;bairisch
+groimeln;niederbairisch
+griefen;Franken
+grießmus;Süddeutschland
+griasmuaserl;Süddeutschland
+grießkoch;Süddeutschland, Österreich
+griasbrei;bairisch, schwäbisch
+grießpapperl;Österreich
+bunne;rheinisch
+bohnerl;Süddeutschland
+bohne;bairisch, schwäbisch
+fisolen;Österreich
+bohnscharln;Österreich
+strankerln;Österreich
+gummer;südhessisch/pfälzisch
+gommere;Saarland
+kukumer;bairisch
+kummern;Süddeutschland
+gugummere;altalemannisch
+kümmerla;Unterfranken
+gurkn;Oberfranken
+murkn;Österreich
+hähnsche;Süddeutschland
+hingkel;pfälzisch
+hinkel;oberhessisch
+hoinger;oberhessisch
+giggl;südhessisch
+geggele;schwäbisch
+göckele;schwäbisch
+göggele;schwäbisch
+güggeli;südbadisch
+guller;Süddeutschland
+gockerl;Süddeutschland
+hendl;bairisch
+gickerl;bairisch
+giecher;fränkisch
+buddla;fränkisch
+göker;fränkisch
+gökerla;oberfränkisch
+hähnla;oberfränkisch
+hendl;Österreich
+suppenadler;Österreich
+pieperl;Österreich
+gummiadler;Österreich (scherzhaft)
+schöpf;bairisch, Österreich
+hackepeter;Mitteldeutschland
+gewiegtes;obersächsisch
+schabefleisch;thüringisch
+haschee;Süddeutschland, Österreich
+faschiertes;bairisch, Österreich
+germ;bairisch, Österreich
+stutenkerl;Norddeutschland
+kiepenkerl;Norddeutschland
+weckmann;rheinisch
+pumann;West-Ruhrgebiet
+dambedei;Mitteldeutschland, nordbadisch
+stutenmann;Siegerland
+clausemann;Süddeutschland
+weckenmann;Süddeutschland
+klausenmann;bairisch
+grättimaa;südbadisch
+pfeifenmann;Österreich
+kranzkuchen;Mitteldeutschland
+kranzbrot;Mitteldeutschland
+striezl;bairisch, Österreich
+kranzes;schwäbisch
+heewezobb;südhessisch
+brägen;Norddeutschland
+hirä;schwäbisch
+heann;südhessisch
+fliederbeeren;Norddeutschland
+holder;Süddeutschland, Österreich
+holler;Süddeutschland, südhessisch, Österreich
+hoier;schwäbisch, bairisch
+gehannstraube;Mitteldeutschland
+hannstraube;Mitteldeutschland
+hansgetraube;pfälzisch
+koonztraube;hessisch
+g'hånnsdrauwe;südhessisch
+träuble;schwäbisch
+ribisel;bairisch, Österreich
+kannesbeer;oberfränkisch, nordbairisch
+hannstriebili;alemannisch
+gonztrauwe;nordbadisch
+kaldaunen;Norddeutschland
+pansen;Norddeutschland
+flauzen;saarländisch
+flecke;sächsisch
+kutteln;schwäbisch, südbadisch
+kuddla;schwäbisch, südbadisch
+kuddle;pfälzisch
+sulz;badisch
+fleck;Österreich
+kutteln;Westösterreich
+kuttelfleck;Österreich
+geeleriebe;hessisch
+gelleriewe;Saarlland/Pfalz
+murre;rheinisch
+morte;moselfränkisch
+gäälriewe;pfälzisch/südhessisch
+gelbe rübe;bairisch
+geibe ruam;bairisch
+gelbi rübe;unterfränkisch
+gellrieb;badisch, schwäbisch
+gellriebli;badisch, schwäbisch
+gelbe riaba;badisch, schwäbisch
+gälba rüm;oberfränkisch
+karottn;oberfränkisch
+gäiberuum;bayrisch
+mehra;Österreich
+merln;Österreich
+murkerl;Österreich
+gälrüable;Österreich
+tüfte;Norddeutschland
+erpel;Kölsch
+ardäppel;Erzgebirge
+abern;Lausitz
+erbern;sächsisch
+koardowwel;Oberhessisch
+eappel;Vorgebirge
+krumbir;Süddeustchland
+ärdnuss;Süddeustchland
+äbbira;Süddeustchland
+grummbiere;Süddeustchland
+grombira;Süddeustchland
+jädepfl;Süddeustchland
+herdöpfel;badisch, schwäbisch
+bodabira;schwäbisch
+grumbeere;pfälzisch
+kadoffe;bairisch
+erpfl;oberfränkisch
+ardöpfl;Süddeutschland
+arpfl;itzgründisch
+äbbirn;Süddeutschland
+bodaggng;fränkisch, Nürnberg u. Umgebung
+grumbern;Unterfranken
+herdepfl;badisch, schwäbisch
+krumpan;Stmk./Burgenland
+grundbirn;Vorarlberg/Stmk./Burgenland)
+krumperer;Vorarlberg
+bramburi;Niederösterreich-Waldviertel
+eapfe;Österreich
+eapfen;Österreich
+eachtling;Lungau
+pantatti;Tirol
+abirn;Kärnten
+quetschkartoffeln;Norddeutschland
+grumbeerbrei;Mitteldeutschland
+grumbeerschtambes;pfälzisch
+mauke;Oberlausitz
+pirree;schwäbisch
+erdäpfelpüree;bairisch, Österreich
+erapfebrei;niederbairisch
+herdäpfelbrei;Süddeutschland
+härdöpfelstock;Süddeutschland
+grumbeerebäb;badisch
+zahmet;itzgründisch
+schdåmbes;südhessisch
+stampf;oberfränkisch
+stopfer;fränkisch, Nürnberg und Umgebung
+grumbierebrei;südrheinfränkisch
+bireé;Österreich
+krumpanpüree;Österreich
+rievkooche;rheinisch
+grommbierkischeljer;Saarland
+kartoffelklitscher;obersächsisch)
+bambes;vogtländisch
+grumbeerpannekuche;pfälzisch
+krebbelcher;siegerl., moselfränkisch
+kadoffelpånnkuche;Süddeutschland
+panneläppscher;südhessisch
+kartoffelpannekuche;Odenwald
+reiberdatschi;bairisch
+dotsch;bairisch)
+krumbirnpöngeli;Süddeutschland
+rohe pfannekuchen;Unterfränkisch
+dädscha;itzgründisch
+herdöpfelpuffer;Markgräflerland
+baggers;Bamberg, Erlangen u.Umg.
+ballnklöß;Süddeutschland
+franzkung;oberfränkisch
+baggerla;Frankenwald und Hofer Land
+kardofflkiachla;schwäbisch
+quarkkuchen;sächsisch
+quarktorte;sächsisch
+mattekuche;Oberhessisch
+flååre;südhessisch
+keeskuche;neusüdhessisch
+käskuacha;schwäbisch
+kaskuch;bairisch
+kaskuchen;bairisch
+kaskucha;bairisch
+topfenkuchen;bairisch, Österreich
+topfentorte;bairisch, Österreich
+kaasplotz;Unterfränkisch
+keeskuung;oberfränkisch
+ripple;schwäbisch
+rippli;schwäbisch
+schäufele;badisch
+ripperl;bairisch
+selchkaree;Österreich 
+geselchtes;Österreich
+selchripperln;Österreich
+selchfleisch;Österreich
+gutz;hessisch
+blätzje;südhessisch
+blätzl;pfälzisch
+brötle;Süddeutschland
+breetli;Süddeutschland
+bretle;Süddeutschland
+guatsle;Süddeutschland
+laible;schwäbisch
+loible;schwäbisch
+breedel;badisch
+platzerl;bairisch
+guadl;bairisch
+leckerl;bairisch
+zaidl;bairisch
+plätzla;oberfränkisch
+zeltl;allgäuerisch, Österreich
+geks;Österreich
+geksi;Österreich
+keule;Norddeutschland
+schlegel;schwäbisch, Österreich
+schlögel;bairisch, Österreich
+kipfchen;Norddeutschland
+nußhörnchen;Norddeutschland
+hörndl;bairisch
+kipferl;Mitteldeutschland, bairisch, Österreich
+hornli;schwäbisch
+hörnle;schwäbisch
+gipfeli;Markgräflerland
+vanillekipferl;Österreich
+kersch;bairisch
+weichsel;bairisch, Österreich
+griasa;schwäb., badisch
+chirsi;Markgräflerland
+gerschtn;Österreich
+kerschtn;Österreich
+kriase;Vorarlberg
+klump;Norddeutschland
+hütes;hessisch
+kleeß;südhessisch
+knopp;pfälzisch
+klöß;fränkisch
+nockerl;bairisch
+spotzen;nordbairisch
+kneedl;schwäbisch
+gniedla;fränkisch
+knofel;Norddeutschland, Österreich, Süddeutschland
+knowwelich;Odenwald
+knowwelisch;südhessisch
+knoblich;Süddeutschland
+knoflich;Süddeutschland
+knoble;schwäbisch
+knofl;schwäbisch
+knofi;bairisch
+knofie;bairisch
+knobbelig;Baden
+kochkees;südhessisch
+brennkees;Odenwald
+kochkäse;Norddeutschland
+obere rübe;Süddeutschland
+kollräble;schwäbisch, badisch
+öwaschicharuhm;Itzgründisch
+kullerrom;fränkisch
+kollrååwe;südhessisch
+kollrääbscher;südhessisch
+koirawi;Österreich
+kohlrübe;Wien
+siesschmeer;Saarland
+mammelaad;Süddeutschland
+schillee;südhessisch
+gsälz;schwäbisch
+schlecksel;Markgräflerland
+gutzi;Markgräflerland
+greanr salat;schwäbisch
+greana salod;bairisch
+griene Salåd;südhessisch
+koppsalad;pfälzisch
+häuptelsalat;Österreich
+haipesalód;Österreich
+kärwes;südhessisch
+plutzer;Österreich
+kiawas;Österreich
+kiawis;Österreich
+pumper;Österreich
+pumperzoner;Kärnten
+karbonade;Norddeutschland
+goddlett;südhessisch
+koddledd;schwäbisch, bairisch
+karree;Österreich
+leberkäs;bairisch, schwäbisch, Österreich
+leberkas;Süddeutschland, Österreich
+fleischkas;Tirol
+lebakas;bairisch
+lebakees;oberfränkisch
+fleischkäse;schwäbisch, badisch
+lewwerkees;pfälzisch
+flääschkees;pfälzisch
+läwwerwoaschd;südhessisch
+lewwerworschd;pfälzisch
+labekuchen;Mitteldeutschland(Westen)
+magenbrot;Süddeutschland, Österreich
+bümmel;Vorarlberg
+kracherl;bairisch
+spratzelwasser;oberfränkisch
+schlotzer;badisch, schwäbisch
+luddscher;südhessisch/pfälzisch
+luutscher;bairisch
+welschkorn;badisch/schwäbisch
+kukaruz;bairisch
+mangold;Norddeutschland
+römisch kohl;Süddeutschland
+rehmisch kehl;hunsrückisch
+herrgottsbscheißerle;Süddeutschland
+mauldascha;Süddeutschland
+maultäschle;schwäbisch
+merreedsch;südhessisch
+merch;Süddeutschland
+meerradi;bairisch
+kren;bairisch, Österreich
+kree;oberfränkisch, Österreich
+muich; bairisch, Österreich
+kriecherl;bairisch, Österreich
+moorwasser; Norddeutschland
+gwasch; Süddeutschland
+neier;Mitteldeutschland
+naie woi;pfälzisch
+färrerweißer;südhessisch
+sturm;Süddeutschland, Österreich
+bremser;Süddeutschland
+suser;Südbaden/Oberschwaben
+staubiger;Österreich
+oraschn;bairisch
+anrantschn;Österreich
+weckmehl;Mitteldeutschland, pfälzisch, badisch, schwäbisch, hessisch
+semmelmehl;Süddeutschland
+mutschelmehl;Ulmer Bereich
+pellermänner;Ruhrgebiet
+quallmänncher;kölsch
+gewellde;hessisch
+geqwellde;pfälzisch, südhessisch
+schalenkartoffel;Süddeutschland 
+kardoffl aus dr schal;schwäbisch
+quellgrombiere;Saarland
+quellesja;Saarland
+gequellte;Odenwald
+gschwelldi;badisch
+runde krumbern;Untermainländisch
+schelfeler;Österreich
+gsottne grumpira;Vorarlberg
+peterling;Süddeutschland
+peterle;badisch/pfälzisch
+petersil;bairisch, Österreich
+petterla;oberfränkisch
+bäiderla;Mittelfränkisch
+pedasöö;Österreich
+schaffen;thüringisch
+pånn;südhessisch/pfälzisch
+pann;Süddeutschland
+pfanna;Süddeutschland
+bratpfann;schwäbisch
+pfaunn;Österreich
+brodtpfaunn;Österreich
+pfiffer;Süddeutschland
+reherl;Süddeutschland, Österreich
+rehling;Süddeutschland
+rehgeißl;Süddeutschland
+rehgoaß;bairisch
+eierschwammerl;bairisch, Österreich
+gelberla;fränkisch
+prumm;Kölsch
+pflomm;schwäbisch
+proume;südhessisch
+qwedsche;südhessisch
+pflomm;schwäbisch
+zwetschke;Österreich
+zwetschgn;Österreich
+prummekumpott;Kölsch
+zwetschgengsälz;schwäbisch
+zwetschgentauch;bairisch
+zwetschkenröster;Österreich
+zwetschgnresta;Österreich
+quetschekraut;Westerland, Mitteldeutschland
+prummetaat;Kölsch
+zwetschgendatschi;bairisch
+zwetschgenplootz;Franken
+qwedschekuche;südhessisch
+zwetschgewaie;südbadisch
+zwetschgakuacha;schwäbisch
+zwetschkenfleck;Österreich
+quetschehoing;oberhessisch
+laksem;Saarland
+laddwäje;südhessisch
+laddwersch;südhessisch
+pflaumenmuaserl;bairisch
+pflaumemues;schwäbisch
+dramus;badisch
+quetschelatwergen;Odenwald
+powidl;Österreich
+schwammerl;bairisch, Österreich
+schwamma;oberfränkisch
+schwemmla;schwäbisch
+surfleisch;bairisch, Österreich
+breitlauch; Mitteldeutschland
+burjahn;hessisch
+laach;südhessisch
+kronsbeere;Norddeutschland
+steinbeere;Süddeutschland
+hellbeerla;oberfränkisch
+zwengalen;niederbairisch
+schdaabzogger;südhessisch
+staubzucker;badisch, schwäbisch, bairisch, Österreich
+weißkäse;Norddeutschland
+klatschkies;Rheinland
+matte;hessisch, Wetterau
+weißer kees;pfälzisch
+schmeerkees;südhessisch
+weißer kees;pfälzisch
+topfen;bairisch
+luckeleskäs;schwäbisch
+bibbeleskäs;alemannisch/südbadisch
+ziebalaskees;oberfränkisch
+topfen;Österreich
+topfentascherl;bairisch, Österreich
+käsetasche;fränkisch
+matteweck;hessisch
+topfengolatsche;Österreich
+raachern;südhessisch
+selchen;bairisch, Österreich
+seichen;bairisch
+söchn;Österreich
+schunken;alemannisch
+greichats;Süddeutschland
+speeg;bairisch, Österreich
+schbägg;schwäbisch
+selchspeck;Österreich
+reineclaude;Norddeutschland
+ringlohe;Süddeutschland
+wasserladsche;südhessisch
+reneklode;Süddeutschland
+ringlotte;Süddeutschland, Österreich
+ringlo;badisch, bairisch, Österreich
+rengloda;schwäbisch
+kriachal;Österreich
+kriechel;Österreich
+radi;bairisch, Österreich
+räädich;schwäbisch
+lendle;schwäbisch
+fleischvogerl;bairisch
+sprute;rheinisch
+rosenböbbele;Süddeutschland
+bebbelesköhl;schwäbisch
+röselichöhl;südbadisch
+kohlsprossen;Österreich
+kohlsprosserl;Österreich
+sprossenkohl;Österreich
+roore riewe;südhessisch
+rote rahnen;Süddeutschland
+rahna;bairisch
+rote ruam;bairisch
+randich;badisch
+rode riaba;schwäbisch
+raode riaba;schwäbisch
+rode ruam;Österreich 
+rohne;Österreich 
+rauna;Österreich 
+randen;Österreich 
+ruude kappes;Kölsch
+blaukraut;Süddeutschland, Österreich
+gebaggene Aajer;Süddeutschland
+geklebberde;südhessisch
+eierspeis;Suddeutschland 
+eierschmalz;bairisch
+obers;Österreich
+schmetten;Österreich
+schmettermilch;südbadisch
+schlagobers;Österreich
+schlag;Österreich
+suurgriasa;badisch
+sauerkohl;Norddeutschland
+surbraten;Süddeutschland
+schweiners;bairisch
+schweinebrooda;schwäbisch
+schoppe;Pfalz, Rheinhessen
+persching;Pfalz, Rheinhessen
+sauergespritzte;Rheinhessen
+süßgespritzte;Rheinhessen
+summerschoppe;Rheinhessen
+sommerschoppe;Rheinhessen
+g’spritzter;bairisch
+bauchstupferlen;Süddeutschland
+bubespitzle;Süddeutschland
+buabaschbitzle;badisch, schwäbisch
+fingernudel;bairisch
+baunkerl;bairisch
+baunkal;bairisch
+krautnudel;Odenwald
+schäufele;fränkisch, badisch, schwäbisch
+schäuferla;fränkisch
+schüfeli;alemannisch/südbadisch
+schulternes;Österreich
+schuita;Österreich
+saukobb;südhessisch
+sauschädel;bairisch, Österreich
+zeller;Österreich
+zölla;Österreich
+mostrich;Süddeutschland
+sämpft;fränkisch
+senft;bairisch/fränkisch, Österreich
+sempf;schwäbisch, Österreich
+setzei;Mitteldeutschland
+schbijelei;südhessisch
+ochsenauge;bairisch, schwäbisch
+glootzachn;fränkisch
+spatzen;bairisch, schwäbisch
+knöpfli;südbadisch
+nockerln;Österreich
+knöpfle;Österreich
+dreeschel;hunsrückisch
+knuschel;Kölsch
+agrasel;Österreich
+agrassel;Österreich
+ogrosl;Österreich
+steckrübe;Norddeutschland
+wrucke;Norddeutschland
+rummel;Moselfränkisch
+dotschen;bairisch
+ruam;bairisch, Österreich
+kellrum;oberfränkisch
+erdrübe;Süddeutschland
+dobernigl;niederbairisch
+herrenpilz;Österreich
+bagunta;Österreich
+stegckruam;Österreich
+gallere;schwäbisch
+schmeerwoaschd;südhessisch
+domadn;fränkisch, bairisch
+paradeiser;Österreich
+paradeis;Österreich
+tobb;sächsisch
+dibbe;hessisch
+dippen;moselfränkisch
+hawwe;pfälzisch
+haffe;pfälzisch
+dibbe;Süddeutschland
+hååwe;südhessisch
+doopf;Süddeutschland
+hoofa;Süddeutschland
+deegl;bairisch
+hafen;badisch
+haafa;schwäbisch
+häfen;Österreich
+hefn;Österreich
+rein;Österreich
+reindl;Österreich
+latwerje;pfälzisch, südhessisch
+traamus;badisch
+vorteig;Norddeutschland
+dampferl;bairisch, Österreich
+germteig;Österreich
+welschnuss;bairisch, badisch, Österreich
+kappes;Rheinland, Saarland
+kabbes;südhessisch
+pimperlkraut;Süddeutschland 
+wienerle;badisch, schwäbisch, Österreich
+saitawirschtla;schwäbisch
+saita;schwäbisch
+thurner würstchen;Passau
+wienala;fränkisch, bairisch
+selchwürsteln;nordbairisch/egerländisch
+weasching;südhessisch
+kehl;Süddeutschland
+wirsching;bairisch, badisch
+würsching;fränkisch
+weesching;schwäbisch
+welschkraut;Süddeutschland
+kelch;Österreich
+köch;Österreich
+kiawas;Österreich
+zwiepolle;Norddeutschland
+bolle;nördl. Sachsen-Anhalt
+öllisch;Kölsch
+zwiwwl;pfälzisch
+zwewwl;südhessisch, Odenwald
+zwiebl;schwäbisch
+zwiefe;Süddeutschland
+zwiwe;bairisch
+zwiwel;Saarland
+zwiefel;oberfränkisch
+bülle;badisch
+bölla;badisch
+zwübel;Unterfränkisch
+zwifel;Österreich
+zwüfi;Österreich
+zwifü;Österreich

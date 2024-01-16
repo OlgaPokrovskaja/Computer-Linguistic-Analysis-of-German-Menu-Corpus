@@ -1,0 +1,301 @@
+Empereur;fr
+Impératrice;fr
+Archiduc;fr
+Archiduchesse;fr
+Grand-Duc;fr
+Grande-Duchesse;fr
+Duchesse;fr
+Prince électeur;fr
+Le Margrave;fr
+La Margrave;fr
+Marquis;fr
+Marquise;fr
+Comte;fr
+Comtesse;fr
+Le Comte Palatin;fr
+La Comtesse Palatine;fr
+Le Comte du Saint Empire;fr
+La Comtesse du Saint Empire;fr
+Le Altgraf;fr
+La Altgraf;fr
+Le Burggrave;fr
+La Burggrave;fr
+Le Landgrave;fr
+La Landgrave;fr
+Le Raugrave;fr
+La Raugrave;fr
+Le Rougrave;fr
+La Rougrave;fr
+Le Rhingrave;fr
+La Rhingrave;fr
+Le Waldgrave;fr
+La Waldgrave;fr
+Le Wildgrave;fr
+La Wildgrave;fr
+Baronne;fr
+Sieur;fr
+Seigneur;fr
+Imperatore;it
+Imperatrice;it
+Arciduca;it
+Arciduchessa;it
+Gran Duca;it
+Gran Duchessa;it
+Duca;it
+Duchessa;it
+Principe;it
+Elettore;it
+Principessa;it
+Margravio;it
+Marchese;it
+Marchesa;it
+Conte;it
+Contessa;it
+Conte Palatino;it
+Contessa;it
+Palatina;it
+conte dell'Impero;it
+contessa dell'Impero;it
+Altgravio;it
+Burgravio;it
+Landravio;it
+Raugravio;it
+Renegravio;it
+Waldgravio;it
+Wildgravio;it
+Barone;it
+Baronessa;it
+Cavaliere;it
+Signor;it
+Signora;it
+Emperador;es
+Emperatriz;es
+Archiduque;es
+Archiduquesa;es
+Gran Duque;es
+Gran Duquesa;es
+Duque;es
+Duquesa;es
+Gran Príncipe;es
+Gran Princesa;es
+Príncipe ;es
+Elector;es
+Margrave;es
+Margravina;es
+Marqués;es
+Marquesa;es
+Conde;es
+Condesa;es
+Conde Palatino;es
+Landgrave;es
+Landgravina;es
+Barón;es
+Baronesa;es
+Caballero;es
+Emperor;en
+Empress;en
+Archduke;en
+Archduchess;en
+Grand Duke;en
+Grand Duchess;en
+Duke;en
+Duchess;en
+Grand Duke;en
+Grand Duchess;en
+Sovereign Baron;en
+Sovereign Baroness;en
+Marquess;en
+Margrave;en
+Marchioness;en
+Margravine;en
+Countess;en
+Palsgrave;en
+Imperial Count;en
+Castellan;en
+Landgrave;en
+Landgravine;en
+Wildgrave;en
+Baronet;en
+Baronetess;en
+Kejser;dnk
+Kejserinde;dnk
+Ærkehertug;dnk
+Ærkehertuginde;dnk
+Storhertug;dnk
+Storhertuginde;dnk
+Hertug;dnk
+Hertuginde;dnk
+Storfyrste;dnk
+Storfyrstinde;dnk
+Kurfyrste;dnk
+Kurfyrstinde;dnk
+Fyrste;dnk
+Fyrstinde;dnk
+Markgreve;dnk
+Markgrevinde;dnk
+Greve;dnk
+Grevinde;dnk
+Friherre;dnk
+Friherreinde;dnk
+Ridder;dnk
+Herre;dnk
+Frue;dnk
+Αυτοκράτωρ;grc
+Αυτοκράτειρα;grc
+Βασιλεύς;grc
+Βασίλισσα;grc
+Aρχιδούκας;grc
+Aρχιδούκισσα;grc
+Μέγας Δούκας;grc
+Μεγάλη Δούκισσα;grc
+Δούκας;grc
+Δούκισσα;grc
+Eκλέκτορας;grc
+Ηγεμόνας;grc
+Πρίγκιπας;grc
+Ηγεμονίδα;grc
+Πριγκίπισσα;grc
+Μαργράβος;grc
+Μαρκήσιος;grc
+Μαρκησία;grc
+Κόμης;grc
+Κόμισσα;grc
+Βαρόνος;grc
+Βαρώνος;grc
+Βαρόνη;grc
+Βαρώνη;grc
+Ιππότης;grc
+Ντάμα;grc
+Κύριος;grc
+Κυρία;grc
+Δεσποινίς;grc
+Keizer;nl
+Keizerin;nl
+Aartshertog;nl
+Aartshertogin;nl
+Groothertog;nl
+Groothertogin;nl
+Hertog;nl
+Hertogin;nl
+Keurvorst;nl
+Keurvorstin;nl
+Markies;nl
+Markiezin;nl
+Graaf;nl
+Gravin;nl
+Rijksgraaf;nl
+Rijksgravin;nl
+Burggraaf;nl
+Burggravin;nl
+Rijngraaf;nl
+Rijngravin;nl
+Wildgraaf;nl
+Wildgravin;nl
+Baron;nl
+Vrijheer;nl
+Barones;nl
+Vrijvrouwe;nl
+Jonkheer;nl
+Jonkvrouw;nl
+Jonkheer;nl
+Jonkvrouw;nl
+Císař;cze
+Císařovna;cze
+Král;cze
+Královna;cze
+Arcivévoda;cze
+Arcivévodkyně;cze
+Velkovévoda;cze
+Velkovévodkyně;cze
+Vévoda;cze
+Vévodkyně;cze
+Velkokníže;cze
+Velkokněžna;cze
+Kurfiřt;cze
+Kurfiřtka;cze
+Kníže;cze
+Kněžna;cze
+Markrabě;cze
+Markýz;cze
+Markraběnka;cze
+Markýza;cze
+Hrabě;cze
+Hraběnka;cze
+Svobodný pán;cze
+Svobodná paní;cze
+baronka;cze
+Rytíř;cze
+Zeman;cze
+Zemanka;cze
+Pán;cze
+Paní;cze
+Császár;hu
+Császárnő;hu
+Király;hu
+Királynő;hu
+Királyné;hu
+Főherceg;hu
+Főhercegnő;hu
+Nagyherceg;hu
+Nagyhercegnő;hu
+Herceg;hu
+Hercegnő;hu
+Nagyfejedelem;hu
+Választófejedelem;hu
+Fejedelem;hu
+Őrgróf;hu
+Gróf;hu
+Grófnő;hu
+Palotagróf;hu
+Царь;ru
+Император;ru
+Царица;ru
+Императрица;ru
+Король;ru
+Королева;ru
+Эрцгерцог;ru
+Эрцгерцогиня;ru
+Великий герцог;ru
+Великая герцогиня;ru
+Герцог;ru
+Герцогиня;ru
+Великий князь;ru
+Великая княгиня;ru
+Курфюрст;ru
+Курфюрстина;ru
+Князь;ru
+Княгиня;ru
+Маркиз;ru
+Маркиза;ru
+Граф;ru
+Графиня;ru
+Барон;ru
+Баронесса;ru
+Рыцарь;ru
+شهنشاه;fa(persisch)
+شهبانو;fa(persisch)
+شاه;fa(persisch)
+شهبانو;fa(persisch)
+Ilkhan;fa(persisch)
+Amir;fa(persisch)
+Amir;fa(persisch)
+Khanom;fa(persisch)
+Amir;fa(persisch)
+Khanom;fa(persisch)
+Begom;fa(persisch)
+Sardar;fa(persisch)
+Sarvar;fa(persisch)
+Agha;fa(persisch)
+Banoo;fa(persisch)
+Khanom;fa(persisch)
+皇帝;chn
+女皇;chn
+王;chn
+女王;chn
+大公;chn
+公;chn
+选帝侯;chn
+侯;chn
+伯;chn
+男;chn
+骑士;chn
