@@ -1,4 +1,4 @@
-# lingustic_analysis_of_german_menu_corpus
+# Computer Linguistic Analysis of German Menu Corpus
 
 Diese Repository enthält den Programmcode zur Bachelorarbeit mit den Titel "Anwendung computergestützter Verfahren zur linguistischen Analyse eines deutschen Speisekarten-Korpus", vorgelegt von Olga Pokrovskaja im Januar 2024 an der Universität Leipzig (Institut für Informatik, Studiengang B.Sc. Digital Humaniies). Das Ziel dieser Arbeit war die Erstellung eines großen, deutschsprachigen Speisekarten-Korpus, sowie Entwicklung automatisierter Verfahren zur Suche nach sprachlichen Aufwertungsstrategien der Restaurants. Anschließend sollte gezeigt werden wie oft diese Aufwertungsstrategien im gesamten Korpus, in jedem Bundesland und in jeder Restaurantkategorie vorfinden lassen.
 
